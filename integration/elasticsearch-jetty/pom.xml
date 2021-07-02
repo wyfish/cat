@@ -10,7 +10,7 @@
   <packaging>jar</packaging>
 
   <properties>
-    <elasticsearch.version>1.5.2</elasticsearch.version>
+    <elasticsearch.version>6.8.15</elasticsearch.version>
     <jetty.version>9.4.17.v20190418</jetty.version>
   </properties>
 
